@@ -1,6 +1,12 @@
-### RAIDEN SHOGUN IS MY WIFE!!!!!!!!! :D
-
+<h1 align="center"> RAIDEN SHOGUN IS MY WIFE!!!!!!!!! :D </h1>
+<p align="center">
 <img src="https://discord.c99.nl/widget/theme-3/242969117479403520.png"/>
+</p>
+
+<h1 align="center"> Skills </h1>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,go,vscode,mongo,postgres,bash&theme=dark"
+</p>
 
 <!--
 **1intan99/1intan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
