@@ -1,6 +1,6 @@
+<h2 align="center"> Yet another neet programmer </h2>
 <p align="center">
-  <h2> Yet another neet programmer </h2>
-<img src="https://skillicons.dev/icons?i=js,ts,go,vscode,mongo,postgres,bash&theme=dark"
+<img src="https://skillicons.dev/icons?i=js,ts,go,vscode,mongo,postgres,bash&theme=dark">
 </p>
 
 <!--
