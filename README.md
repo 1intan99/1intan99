@@ -3,7 +3,7 @@
 <img src="https://skillicons.dev/icons?i=js,ts,go,vscode,mongo,postgres,bash&theme=dark">
 </p>
 <br>
-<h2> Nya... </h2>
+<h2 align="center"> Nya... </h2>
 <p align="center">
   <a href="https://discord.com/users/242969117479403520" target="_blank"><img src="https://lanyard.cnrad.dev/api/242969117479403520"><a>
 </p>
