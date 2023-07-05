@@ -8,7 +8,7 @@
   <a href="https://discord.com/users/242969117479403520" target="_blank"><img src="https://lanyard.cnrad.dev/api/242969117479403520"><a>
 </p>
 <p align="center">
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@luminaluna/77c7466b-b190-4e08-90c4-ae73d597c980.png" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@luminaluna/eb9094e9-35c5-4b25-9153-348d10bf0aa6.png" /></a>
 </p>
 
 <!--
