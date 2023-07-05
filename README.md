@@ -7,6 +7,9 @@
 <p align="center">
   <a href="https://discord.com/users/242969117479403520" target="_blank"><img src="https://lanyard.cnrad.dev/api/242969117479403520"><a>
 </p>
+<p align="center">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@luminaluna/77c7466b-b190-4e08-90c4-ae73d597c980.png" /></a>
+</p>
 
 <!--
 **1intan99/1intan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
