@@ -8,7 +8,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,docker,linux&theme=dark">
 </p>
 <br>
-<h2 align="center">Deskort Activity</h2>
+<h2 align="center">Diskord Activity</h2>
 <p align="center">
   <a href="https://discord.com/users/242969117479403520" target="_blank"><img src="https://lanyard.cnrad.dev/api/242969117479403520"><a>
 </p>
