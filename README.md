@@ -14,7 +14,7 @@
 </p>
 <h2 align="center">Code Activity</h2>
 <p align="center">
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@luminaluna/eb9094e9-35c5-4b25-9153-348d10bf0aa6.png" /></a>
+ <figure><img src="https://wakatime.com/share/@luminaluna/1deae099-718e-4d2d-8117-d624336d2b08.svg"></img></figure>
 </p>
 
 <!--
